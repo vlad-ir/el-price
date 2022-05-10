@@ -1,0 +1,12 @@
+/.htaccess
+/test*.php
+/valuta_rb*.php
+/save_PDF_catalog_allphoto_*.php
+/save_PDF_bigphoto_*.php
+prodimg/*
+orders/*
+upload/price.xls
+upload/price___ UTF.csv
+settings___server.php
+data_to_mysql_CSV_speedup.php
+partners_control.php
